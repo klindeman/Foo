@@ -22,12 +22,12 @@
 		0A7A529F13662C320046C60D /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		0A7A52A013662C320046C60D /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		0A7A52A113662C320046C60D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		0A7A52A413662C320046C60D /* Foo-Info.plist */ = {isa = PBXFileReference; path = "Foo-Info.plist"; sourceTree = "<group>"; };
+		0A7A52A413662C320046C60D /* Foo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Foo-Info.plist"; sourceTree = "<group>"; };
 		0A7A52A613662C320046C60D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0A7A52A813662C320046C60D /* Foo-Prefix.pch */ = {isa = PBXFileReference; path = "Foo-Prefix.pch"; sourceTree = "<group>"; };
+		0A7A52A813662C320046C60D /* Foo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Foo-Prefix.pch"; sourceTree = "<group>"; };
 		0A7A52A913662C320046C60D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0A7A52AC13662C320046C60D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		0A7A52AE13662C320046C60D /* FooAppDelegate.h */ = {isa = PBXFileReference; path = FooAppDelegate.h; sourceTree = "<group>"; };
+		0A7A52AE13662C320046C60D /* FooAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FooAppDelegate.h; sourceTree = "<group>"; };
 		0A7A52AF13662C320046C60D /* FooAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FooAppDelegate.m; sourceTree = "<group>"; };
 		0A7A52B213662C320046C60D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		0A7A52B513662C320046C60D /* Foo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Foo.xcdatamodel; sourceTree = "<group>"; };
